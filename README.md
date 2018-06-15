@@ -1,5 +1,7 @@
 # 🎮 Computational Photography Studies & Research 🎮 
 
+![](HALEIWA.jpg)
+
 ## My Whitepapers on Hacking the XBOX Kinect
 
 * [On Depth Sensors Applications for Computational Photography and Vision.](http://www.astro.sunysb.edu/steinkirch/reviews/kin_pho.pdf)
