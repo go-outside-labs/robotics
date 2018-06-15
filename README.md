@@ -1,6 +1,6 @@
 # 🎮 Computational Photography Studies & Research 🎮 
 
-![](HALEIWA.jpg)
+![](IMG_0409.jpg)
 
 ## My Whitepapers on Hacking the XBOX Kinect
 
