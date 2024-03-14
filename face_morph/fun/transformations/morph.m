@@ -3,7 +3,7 @@
 %   This module calculate the face morphism (for mean
 %   calculation).
 %
-%   Marina von Steinkirch, spring/2013
+%   Mia Stein, spring/2013
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

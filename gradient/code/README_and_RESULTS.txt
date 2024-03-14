@@ -25,4 +25,4 @@ It is composed of the folling modules:
 		The resulting compositions are in the folder results_mixed
 
 
-Marina von Steinkirch, Stony Brook, 2013.
+Mia Stein, Stony Brook, 2013.

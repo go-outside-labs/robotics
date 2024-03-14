@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This module calculates the Poisson blending.
-%  Marina von Steinkirch, spring, 2013
+%  Mia Stein, spring, 2013
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [im_mixed] = mixedBlend(im_object, im_background, im_mask)

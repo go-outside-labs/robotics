@@ -3,7 +3,7 @@
 %   This program performs the face morphism between two images 
 %   from their correspondence points.
 %
-%   Marina von Steinkirch, spring/2013
+%   Mia Stein, spring/2013
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

@@ -7,7 +7,7 @@
 %   This is homework for Tamara Berg's class. The code also includes 
 %   an option for a toy model that just reconstruct the image from 
 %   its gradient.
-%   Marina von Steinkirch, Stony Brook, 2013.
+%   Mia Stein, Stony Brook, 2013.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

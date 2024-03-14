@@ -2,7 +2,7 @@
 
 In this project we demonstrate the technique of face morphing by creating a sequence of simultaneously warped and cross-dissolved image. Extra tools calculate mean values for many images and perform funny results and transformations on face images.
 
-Marina von Steinkirch, spring/2013
+Mia Stein, spring/2013
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

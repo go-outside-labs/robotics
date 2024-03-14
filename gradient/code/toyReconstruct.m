@@ -2,7 +2,7 @@
 % Reconstruct a image from its gradient values in three ways (e.g. plus
 % some integer number of pixel of intensity).
 %
-% marina von steinkirch, spring/2013
+% Mia Stein, spring/2013
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 

@@ -3,7 +3,7 @@
 %   This program calculates the mean face from many
 %   faces.
 %
-%   Marina von Steinkirch, spring/2013
+%   Mia Stein, spring/2013
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

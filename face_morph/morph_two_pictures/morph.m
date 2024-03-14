@@ -2,7 +2,7 @@
 %
 %   This module calculate the face morphism between two images. 
 %
-%   Marina von Steinkirch, spring/2013
+%   Mia Stein, spring/2013
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

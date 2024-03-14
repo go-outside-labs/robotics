@@ -8,7 +8,7 @@
 %   their descriptors to find the nearest match. Finally, we transfer color 
 %   from the matched training image to the query image.
 %
-%   Marina von Steinkirch, spring/2013
+%   Mia Stein, spring/2013
 %
 
 
